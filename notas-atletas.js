@@ -1,5 +1,4 @@
 //código projeto 
-
 let atletas = [
   {
     nome: "Cesar Abascal",
